@@ -1,3 +1,4 @@
+//DIEGO ALCALDE TEBAR
 import java.util.Scanner;
 
 public class for49 {
